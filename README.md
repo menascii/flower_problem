@@ -8,13 +8,6 @@ run:
     ./a.out
     
  sample output:
-     ######################################################
-              flower problem
-                   @      : flower type
-                  /  \    : 1st weight, 2nd weight, bias
-                 @    @   : length, width
-    ######################################################
-
 
     original weight one: 0.2
     original weight two: 0.2
