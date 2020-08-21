@@ -1,11 +1,8 @@
 # flower_problem
 machine learning flower problem in c++
 
-compile: 
-    g++ flower_problem.cpp
-
-run:
-    ./a.out
+user$ g++ flower_problem.cpp
+user$ ./a.out
     
  sample output:
 
